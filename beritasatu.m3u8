@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-url="" group-title="News",BeritaSatu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdYv3Tf/logo-beritasatu-big1.png" group-title="nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
