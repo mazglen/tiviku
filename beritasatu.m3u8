@@ -2,11 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:34119
 #EXT-X-TARGETDURATION:7
-#EXTINF:6.240,
-B1News_1280x720-1620130084074-34119.ts
-#EXTINF:6.240,
-B1News_1280x720-1620130090459-34120.ts
-#EXTINF:6.240,
-B1News_1280x720-1620130096425-34121.ts
-#EXTINF:6.240,
-B1News_1280x720-1620130102817-34122.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdYv3Tf/logo-beritasatu-big1.png" group-title="nasional", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
